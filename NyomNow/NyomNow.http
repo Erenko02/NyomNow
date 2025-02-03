@@ -1,0 +1,6 @@
+@NyomNow_HostAddress = http://localhost:5192
+
+GET {{NyomNow_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
